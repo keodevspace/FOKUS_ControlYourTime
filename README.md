@@ -53,4 +53,3 @@ This project is licensed under the [keoDEVspace, using Alura].
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer at keodevspace@gmail.com.
 
-[Link to your project's GitHub repository](https://github.com/keodevspace/FOKUS_ControlYourTime)
