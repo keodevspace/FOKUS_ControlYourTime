@@ -2,6 +2,8 @@
 
 Welcome to the FOKUS project repository! This project is aimed at helping individuals manage their time effectively and improve their productivity.
 
+VISIT: https://fokusyourmind.vercel.app/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
